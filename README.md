@@ -2,7 +2,7 @@
 creating for my profile
 # Hi there, I'm Rudransh Tripathi 👋
 
-### A passionate Data Analyst from BNoida
+### A passionate Data Analyst from Noida
 
 * 🔭 I’m currently  learning github from skillup online 
 * 🌱 I’m currently learning Data Analysis
