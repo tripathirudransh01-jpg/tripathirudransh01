@@ -5,9 +5,9 @@ creating for my profile
 ### A passionate Data Analyst from BNoida
 
 * 🔭 I’m currently  learning github from skillup online 
-* 🌱 I’m currently learning ...
-* 👯 I’m looking to collaborate on ...
-* 💬 Ask me about ...
+* 🌱 I’m currently learning Data Analysis
+* 👯 I’m looking to collaborate with IT companies
+* 💬 Ask me about my Goals
 * 📫 How to reach me: tripathirudransh01@gmail.com
 * ⚡ Fun fact: ...
 
@@ -17,9 +17,9 @@ creating for my profile
 
 Here are a few technologies I've been working with recently:
 
-* **Backend:** Node.js, Express, Python
-* **Database:** MongoDB, SQL
-* **Tools:** Git
+* **Backend:** Python
+* **Database:**  SQL
+* **Tools:** Github,PowerBI, Excel
 
 ---
 
